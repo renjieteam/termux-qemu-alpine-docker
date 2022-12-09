@@ -163,7 +163,7 @@ It will be take a while and give you a login prompt for the root user you setup.
 
 The reason I installed it all is to [run docker on alpine](https://wiki.alpinelinux.org/wiki/Docker).
 
-On alpine, edit /etc/pkg/repositories and uncomment comunity repository, them install docker:
+On alpine, edit /etc/apk/repositories and uncomment comunity repository, them install docker:
 
 ```
 apk update
